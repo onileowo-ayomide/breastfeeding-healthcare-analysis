@@ -2,15 +2,13 @@
 Healthcare data cleaning, analysis and visualization of infant breastfeeding records using MySQL and Power BI.
 # Breastfeeding & Infant Health Analysis
 
-## 📊 Dashboard
+## Dashboard
 
-### All Departments
+### Filtered Dashboard
+![Filtered Breastfeeding Analysis Dashboard](./Filtered_breastfeeding_analysis_dashboard.jpg)
 
-![Breastfeeding Dashboard](./Dashboard/Dashboard_breastfeeding_dashboard.png.jpg)
-
-### Emergency Department
-
-![Emergency Department Analysis](./Dashboard/Filtered_breastfeeding_analysis_dashboard.jpg)
+### Unfiltered Dashboard
+![Breastfeeding Dashboard](./Dashboard_breastfeeding_dashboard.png.jpg)
 
 ## 📌 Project Overview
 
