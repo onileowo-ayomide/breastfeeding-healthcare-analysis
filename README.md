@@ -141,8 +141,8 @@ breastfeeding-healthcare-analysis/
 │   └── Breastfeeding_and_Infant_Health_Analysis.pbix
 │
 └── Dashboard/
-    ├── breastfeeding_dashboard.png
-    └── breastfeeding_dashboard_analysis.png
+    ├── Dashboard_breastfeeding_dashboard.png.jpg
+    └── Filtered_breastfeeding_analysis_dashboard.jpg
 ```
 
 ## 📈 Skills Demonstrated
