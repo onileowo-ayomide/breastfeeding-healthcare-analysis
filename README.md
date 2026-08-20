@@ -63,7 +63,7 @@ Key dashboard observations include:
 
 The diagnosis visual displays the top five diagnoses rather than the complete diagnosis distribution, so the displayed categories do not represent all diagnoses in the dataset.
 
-![Breastfeeding Dashboard](Dashboard/Dashboard_breastfeeding_dashboard.png)
+![Breastfeeding Dashboard](Dashboard/Dashboard_breastfeeding_dashboard.png.jpg)
 
 ## 🚑 Department-Level Analysis: Emergency
 
@@ -80,7 +80,7 @@ For the **Emergency Department**:
 
 This demonstrates how interactive filtering can reveal patterns that may differ from the overall dataset.
 
-![Emergency Department Analysis](Dashboard/Filtered_breastfeeding_analysis_dashboard.png)
+![Emergency Department Analysis](Dashboard/Filtered_breastfeeding_analysis_dashboard.jpg)
 
 ## 🔎 Key Insights
 
