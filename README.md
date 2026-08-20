@@ -2,6 +2,16 @@
 Healthcare data cleaning, analysis and visualization of infant breastfeeding records using MySQL and Power BI.
 # Breastfeeding & Infant Health Analysis
 
+## 📊 Dashboard
+
+### All Departments
+
+![Breastfeeding Dashboard](./Dashboard/Dashboard_breastfeeding_dashboard.png.jpg)
+
+### Emergency Department
+
+![Emergency Department Analysis](./Dashboard/Filtered_breastfeeding_analysis_dashboard.jpg)
+
 ## 📌 Project Overview
 
 This project analyzes infant healthcare and breastfeeding records to identify patterns in breastfeeding status, birth weight, maternal comorbidities, infant diagnoses, and healthcare department activity.
@@ -63,8 +73,6 @@ Key dashboard observations include:
 
 The diagnosis visual displays the top five diagnoses rather than the complete diagnosis distribution, so the displayed categories do not represent all diagnoses in the dataset.
 
-![Breastfeeding Dashboard](Dashboard/Dashboard_breastfeeding_dashboard.png.jpg)
-
 ## 🚑 Department-Level Analysis: Emergency
 
 The dashboard can also be filtered to examine individual departments.
@@ -79,8 +87,6 @@ For the **Emergency Department**:
 * **Most frequently recorded diagnosis:** Respiratory Infection — 59 cases
 
 This demonstrates how interactive filtering can reveal patterns that may differ from the overall dataset.
-
-![Emergency Department Analysis](Dashboard/Filtered_breastfeeding_analysis_dashboard.jpg)
 
 ## 🔎 Key Insights
 
